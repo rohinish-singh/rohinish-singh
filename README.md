@@ -1,16 +1,36 @@
-## Hi there 👋
+hey, i’m rohinish 👋
 
-<!--
-**rohinish-singh/rohinish-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+computer science student · aspiring backend engineer
 
-Here are some ideas to get you started:
+bengaluru, india · learning by building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+a little about me
+
+I’m a CSE student exploring the world of software engineering, with a growing interest in backend development and the systems behind the applications we use every day.
+
+Currently learning, experimenting, and building my way through Python, APIs, databases, and more.
+
+my toolkit
+
+Languages — Python · C++ · SQL
+
+Backend — FastAPI · REST APIs · PostgreSQL
+
+Tools — Git · GitHub
+
+currently exploring
+
+* Building reliable backend applications
+* Writing clean, maintainable code
+* Understanding databases and system design
+* Turning ideas into working projects
+
+around the internet
+
+GitHub · LinkedIn
+
+⸻
+
+one step at a time, one project at a time.
