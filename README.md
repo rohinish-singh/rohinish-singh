@@ -1,40 +1,10 @@
+
 <p align="center">
-  <img src="./profile-banner.svg" alt="Soft sage and cream abstract banner" width="100%" />
+  <img src="./55C7F681-3118-41C0-9154-D5929B3C5893.png" alt="Rohinish Singh — Computer Science student and aspiring backend engineer" width="100%" />
 </p>
 
-hey, i’m rohinish 👋
-
-computer science student · aspiring backend engineer
-
-bengaluru, india · learning by building
-
-⸻
-
-a little about me
-
-I’m a CSE student exploring the world of software engineering, with a growing interest in backend development and the systems behind the applications we use every day.
-
-Currently learning, experimenting, and building my way through Python, APIs, databases, and more.
-
-my toolkit
-
-Languages — Python · C++ · SQL
-
-Backend — FastAPI · REST APIs · PostgreSQL
-
-Tools — Git · GitHub
-
-currently exploring
-
-* Building reliable backend applications
-* Writing clean, maintainable code
-* Understanding databases and system design
-* Turning ideas into working projects
-
-around the internet
-
-GitHub · LinkedIn
-
-⸻
-
-one step at a time, one project at a time.
+<p align="center">
+  <a href="https://github.com/rohinish-singh">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rohinish-singh-a841382b1">LinkedIn</a>
+</p>
