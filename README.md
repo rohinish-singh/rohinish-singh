@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.svg" alt="Soft sage and cream abstract banner" width="100%" />
+</p>
+
 hey, i’m rohinish 👋
 
 computer science student · aspiring backend engineer
